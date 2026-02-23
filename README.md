@@ -1,4 +1,4 @@
-# Constraint Flow: Neural ODE Path Planning with Obstacle Avoidance
+# ODESolvers are also Wayfinders: Neural ODEs for Multi-Agent Pathplanning
 
 A framework for multi-agent path planning using Neural ODEs with constraint-based flows. The approach learns smooth, collision-free trajectories by embedding obstacle constraints directly into the neural network dynamics through Signed Distance Functions (SDF).
 
